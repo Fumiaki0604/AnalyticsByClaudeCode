@@ -5,8 +5,14 @@ Claude Code のチャットから GA4 データを取得・分析するツール
 ## セットアップ
 
 ### 1. リポジトリをクローン
+
+ターミナル（PowerShell or コマンドプロンプト）を開き、ファイルを置きたい場所に移動してから以下を実行。
+クローンすると `AnalyticsByClaudeCode` フォルダが自動で作成されます。
+
 ```bash
-git clone <このリポジトリのURL>
+# 例: Cドライブ直下に置く場合
+cd C:\
+git clone https://github.com/Fumiaki0604/AnalyticsByClaudeCode.git
 cd AnalyticsByClaudeCode
 ```
 
