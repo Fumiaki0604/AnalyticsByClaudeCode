@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "email": "f_sato@atoj.co.jp",
+      "token_file": "tokens/token_f_sato.json",
+      "properties": [
+        { "id": "288723185", "name": "しまむら" }
+      ]
+    },
+    {
+      "email": "infoatoj3@gmail.com",
+      "token_file": "tokens/token_infoatoj3.json",
+      "properties": [
+        { "id": "269223036", "name": "アンククロス" }
+      ]
+    },
+    {
+      "email": "kado.ecb@gmail.com",
+      "token_file": "tokens/token_kado_ecb.json",
+      "properties": [
+        { "id": "280652417", "name": "カドスト" }
+      ]
+    }
+  ]
+}
